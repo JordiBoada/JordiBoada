@@ -2,6 +2,7 @@
 
 ---
 
+My research aims at understanding the state shift transitions in benthic marine systems to multiple physical and biological stressors. Particularly I am very interested in transitions of vegetated ecosystems and especially in the collapse of macroalgal forests to bare, unproductive rock areas (barrens). I mix natural surveying with manipulative experiments (field and laboratory) and mathematical modelling to conceptualise collapses in marine ecosystems, identify tipping-points and quantify resilience. I am also very passionate by the consequences of marine collapses to the ecosystem goods and services and their link to socio-ecological shifts so I try to provide with complementary approaches for appropriate management of marine benthic systems. More and more every day, my research is linked to the effects of global change (including climate change but not only) and how the expected shifts in the physical conditions of the environment may erode or build up the resilience of habitat engineers to propose conservation priorities and prevent the collapse of ecosystems that in fact contribute to buffer its effects.
 
 <!--
 **JordiBoada/JordiBoada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
